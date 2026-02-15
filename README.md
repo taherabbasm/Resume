@@ -26,20 +26,7 @@ https://taherabbasm.github.io/Resume/
 
 ## Screenshots
 
-You can check screenshots in a folder named `screenshots`.
 
-
-```
-resume-website/
-│
-├── index.html
-├── README.md
-└── screenshots/
-    └── full-page.png
-```
-
-
-
-```
 ![Full Page](screenshots/full-page.png)
-```
+![Full Page](screenshots/full-page2.png)
+
